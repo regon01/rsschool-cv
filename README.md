@@ -1,2 +1,2 @@
 # rsschool-
-<code>https://regon.github.io/rsschool-cv/cv</code>
+<code>[https://regon.github.io/rsschool-cv/cv]</code>
